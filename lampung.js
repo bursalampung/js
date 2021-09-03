@@ -1,4 +1,5 @@
-{ "@context": "http://schema.org",
+<script type="application/ld+json">{
+  "@context": "http://schema.org",
   "@type": "JobPosting",
   "title": "Lowongan Kerja HONDA september 2021","description": "&#160; bursalampung.com  - Honda Arista Auto Prima  adalah perusahaan yang bergerak dibidang otomotif.&#160; Saat ini membutuhkan tenaga kerja untuk m... Baca Selengkapnya di Bursalampung.com <br/>Persyaratan:<br/>
 <ul>
@@ -39,4 +40,4 @@
 </ul>","skills": "Bisa mengoperasikan Komputer (Microsoft Office)","workHours
 ": "40 Jam per Minggu","specialCommitments": "VeteranCommit","occupationalCategory": "Admin, Akutansi, IT, Guru, Dokter, Manager"
   
-}
+}</script>
